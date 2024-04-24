@@ -1,7 +1,7 @@
 {
     "name": "بوت ميوزك مجاني",
-    "description": "سورس ميوزك بودا",
-    "logo": "https://telegra.ph/file/c976e4e20360d4bb8ef19.jpg",
+    "description": "سورس ميوزك ساسكي",
+    "logo": "https://telegra.ph/file/3e5039ee25df9814417c8.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/VGISV",
+        "value": "https://t.me/P111B",
         "required": false
       }
     },
